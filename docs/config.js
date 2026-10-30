@@ -4,7 +4,7 @@
 
 window.LS_CONFIG = {
   // Big title in the bottom-left. Leave empty to use the server's hostname.
-  title: "",
+  title: "RAGGLE'S TERRORISTE BEACHE",
 
   // Optional logo above the title, e.g. "img/logo.png". Leave empty for none.
   logo: "",
