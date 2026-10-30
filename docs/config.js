@@ -15,9 +15,7 @@ window.LS_CONFIG = {
   // Background pool. One image is picked at random on every connect and map change,
   // never the same one twice in a row. Aim for 1920x1080 JPG/WebP around 200-400 KB.
   backgrounds: [
-    "img/bg/placeholder-1.svg",
-    "img/bg/placeholder-2.svg",
-    "img/bg/placeholder-3.svg"
+    "img/bg/BeacheHalloween2026.png"
   ],
 
   // Optional images for specific maps; these replace the pool on that map.
@@ -35,12 +33,11 @@ window.LS_CONFIG = {
   // Each entry is a path, or { src: "...", title: "..." } to set the "now playing" text
   // (otherwise the file name is shown). 128-160 kbps MP3/OGG keeps files small.
   music: [
-    // "audio/Artist - Song.mp3",
-    // { src: "audio/track2.ogg", title: "Artist - Another Song" }
+    { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" }
   ],
 
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
-  musicVolume: 0.4,
+  musicVolume: 0.3,
   musicFadeInSeconds: 3,
   showNowPlaying: true,
 
@@ -53,13 +50,12 @@ window.LS_CONFIG = {
   // Rotating tips in the top-left. An empty list hides the box.
   // Swap these for your own server's rules and tips.
   tips: [
-    "Search bodies with E to find out who they were and how they died.",
-    "Press C to open the shop if your role has one.",
-    "Press Q to drop the weapon you're holding.",
-    "Hold Tab for the scoreboard, where you can tag players as suspects.",
-    "No proof, no kill. Random damage (RDM) will get you punished."
+    "!Beache to open your Beache Coine Wallete.",
+    "Alt (Walk) + E (Use) lets you sit!",
+    "Live by the prop, die by the prop. — Unknown",
+    "A bomb's a bad choice for close-range combat. — JC Denton"
   ],
-  tipSeconds: 8,
+  tipSeconds: 4,
 
   // Friendly map names. Unlisted maps are tidied automatically
   // (ttt_minecraft_b5 -> Minecraft B5).
