@@ -217,10 +217,12 @@ body {
 
 /* ---------------------------------------------------------------- bottom-right: now loading */
 
+/* Sits level with the progress bar, leaving the corner below free for the game's own
+   progress box, which GMod draws on top of the page. */
 .loader {
   position: absolute;
   right: 3.5rem;
-  bottom: 3rem;
+  bottom: 6.4rem;
   text-align: right;
 }
 
