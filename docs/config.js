@@ -39,13 +39,13 @@ window.LS_CONFIG = {
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
   musicVolume: 0.3,
   musicFadeInSeconds: 3,
-  showNowPlaying: true,
+  showNowPlaying: false,
 
   // The "now loading" overlay in the bottom-right. Leave overlayImage empty for the
   // built-in spinner, or point it at a GIF/PNG/WebP (keep GIFs under ~150 KB).
   // Set overlayText to "" if your image already says "now loading".
   overlayImage: "",
-  overlayText: "Now loading",
+  overlayText: "Now loadinge",
 
   // Rotating tips in the top-left. An empty list hides the box.
   // Swap these for your own server's rules and tips.
@@ -53,6 +53,7 @@ window.LS_CONFIG = {
     "!Beache to open your Beache Coine Wallete.",
     "Alt (Walk) + E (Use) lets you sit!",
     "Live by the prop, die by the prop. — Unknown",
+    "Do you have a single fact to back that up? — JC Denton",
     "A bomb's a bad choice for close-range combat. — JC Denton"
   ],
   tipSeconds: 4,
