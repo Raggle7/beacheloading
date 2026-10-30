@@ -20,7 +20,7 @@
   function connect() {
     window.SetStatusChanged("Retrieving server info...");
     setTimeout(function () {
-      window.GameDetails("My TTT2 Server (preview)", window.location.href, map, 24,
+      window.GameDetails("RAGGLE'S TERRORISTE BEACHE", window.location.href, map, 24,
         "76561197960287930", "terrortown", 1, "en", "Trouble in Terrorist Town 2");
     }, 400);
     setTimeout(download, 1500);
