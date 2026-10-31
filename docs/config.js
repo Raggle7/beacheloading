@@ -55,14 +55,17 @@ window.LS_CONFIG = {
   // Swap these for your own server's rules and tips.
   tips: [
     "!Beache to open your Beache Coine Wallete.",
-    "Many things can be configured from your F1 MENU!",
-    "Alt (Walk) + E (Use) lets you sit!",
+    "Configured your game in the F1 MENU.",
+    "Alt (Walk) + E (Use) lets you sit.",
     "Live by the prop, die by the prop. — Unknown",
     "Do you have a single fact to back that up? — JC Denton",
     "Nice werkehs dudehs — Speedy",
     "A bomb's a bad choice for close-range combat. — JC Denton",
     "Nice werkehs dudehs, you'll have to let me have a play sometime. Looks like super duper fun time eclipse sunset surpise! <]=)",
-    "Your life literally is as valuable as a summer ant. I'm just gonna stomp you, you're gonna keep coming back, seal up all my cracks, you're gonna keep coming back, why? Cause you keep smelling the syrup"
+    "Your life literally is as valuable as a summer ant. I'm just gonna stomp you, you're gonna keep coming back, seal up all my cracks, you're gonna keep coming back, why? Cause you keep smelling the syrup",
+    "For me, it is the McChicken! The very embodiment of a fast food sandwich.",
+    "In that instant, time stood still, and joy surged through my veins. 'Wow, three for free!' I exclaimed",
+    "Bullshit. — Jack Garland"
   ],
   tipSeconds: 4,
 
