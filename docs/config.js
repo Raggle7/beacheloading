@@ -33,7 +33,8 @@ window.LS_CONFIG = {
   // Each entry is a path, or { src: "...", title: "..." } to set the "now playing" text
   // (otherwise the file name is shown). 128-160 kbps MP3/OGG keeps files small.
   music: [
-    { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" }
+    { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" },
+    { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "SA2 - Ghost's Pumpkin Soup" }
   ],
 
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
@@ -44,8 +45,8 @@ window.LS_CONFIG = {
   // The "now loading" overlay in the bottom-right. Leave overlayImage empty for the
   // built-in spinner, or point it at a GIF/PNG/WebP (keep GIFs under ~150 KB).
   // Set overlayText to "" if your image already says "now loading".
-  overlayImage: "",
-  overlayText: "Now loadinge",
+  overlayImage: "ring.gif",
+  overlayText: "Now loading",
 
   // Rotating tips in the top-left. An empty list hides the box.
   // Swap these for your own server's rules and tips.
