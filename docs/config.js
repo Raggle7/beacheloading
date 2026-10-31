@@ -36,19 +36,20 @@ window.LS_CONFIG = {
     { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" },
     { src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
     { src: "audio/homer.mp3", title: "Homer Let The Barts Out (Halloween Edition)" },
+    { src: "audio/dothackmenu.mp3", title: ".Hack// - Desktop Theme" },
     { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "SA2 - Ghost's Pumpkin Soup" }
   ],
 
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
   musicVolume: 0.3,
   musicFadeInSeconds: 3,
-  showNowPlaying: false,
+  showNowPlaying: true,
 
   // The "now loading" overlay in the bottom-right. Leave overlayImage empty for the
   // built-in spinner, or point it at a GIF/PNG/WebP (keep GIFs under ~150 KB).
   // Set overlayText to "" if your image already says "now loading".
   overlayImage: "ring.gif",
-  overlayText: "Now loading",
+  overlayText: "You're On Your Way...",
 
   // Rotating tips in the top-left. An empty list hides the box.
   // Swap these for your own server's rules and tips.
@@ -59,7 +60,9 @@ window.LS_CONFIG = {
     "Live by the prop, die by the prop. — Unknown",
     "Do you have a single fact to back that up? — JC Denton",
     "Nice werkehs dudehs — Speedy",
-    "A bomb's a bad choice for close-range combat. — JC Denton"
+    "A bomb's a bad choice for close-range combat. — JC Denton",
+    "Nice werkehs dudehs, you'll have to let me have a play sometime. Looks like super duper fun time eclipse sunset surpise! <]=)",
+    "Your life literally is as valuable as a summer ant. I'm just gonna stomp you, you're gonna keep coming back, seal up all my cracks, you're gonna keep coming back, why? Cause you keep smelling the syrup"
   ],
   tipSeconds: 4,
 
