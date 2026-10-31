@@ -34,6 +34,7 @@ window.LS_CONFIG = {
   // (otherwise the file name is shown). 128-160 kbps MP3/OGG keeps files small.
   music: [
     { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" },
+    { src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
     { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "SA2 - Ghost's Pumpkin Soup" }
   ],
 
@@ -55,6 +56,7 @@ window.LS_CONFIG = {
     "Alt (Walk) + E (Use) lets you sit!",
     "Live by the prop, die by the prop. — Unknown",
     "Do you have a single fact to back that up? — JC Denton",
+    "Nice werkehs dudehs — Speedy",
     "A bomb's a bad choice for close-range combat. — JC Denton"
   ],
   tipSeconds: 4,
