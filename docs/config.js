@@ -65,9 +65,14 @@ window.LS_CONFIG = {
     "Your life literally is as valuable as a summer ant. I'm just gonna stomp you, you're gonna keep coming back, seal up all my cracks, you're gonna keep coming back, why? Cause you keep smelling the syrup",
     "For me, it is the McChicken! The very embodiment of a fast food sandwich.",
     "In that instant, time stood still, and joy surged through my veins. 'Wow, three for free!' I exclaimed",
+    "Press the A BUTTON to jump.",
+    "You cheated not only the argument, but yourself. You didn't create. You didn't improvise. You used a copypasta and added nothing. You experienced a hollow debate. Nothing was discussed and nothing was learned. It's sad that you don't know the difference.",
+    "I hate this game. With all my heart I hate it. And I don't hate because of what it is able to do. I hate it, because it seems the 99% of people in it are worthless scum, who only able to enjoy their day if they ruin it for the other.",
+    "A beach's sand is the slightly unstable ground before the ocean of endless possibility.",
+    "Breasts kind of lose their appeal once you realize they look like a massive nutsack and the neck is kind of like the shaft",
     "Bullshit. — Jack Garland"
   ],
-  tipSeconds: 4,
+  tipSeconds: 5,
 
   // Friendly map names. Unlisted maps are tidied automatically
   // (ttt_minecraft_b5 -> Minecraft B5).
