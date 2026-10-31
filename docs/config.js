@@ -44,11 +44,15 @@ window.LS_CONFIG = {
     { src: "audio/restareamelee.mp3", title: "Super Smash Bros Melee - Rest Area" },
     { src: "audio/fft.mp3", title: "Final Fantasy Tactics - Menu" },
     { src: "audio/darktideauspex.mp3", title: "Warhammer 40K Darktide - Offworld Auspex" },
+    { src: "audio/wildarms3rest.mp3", title: "Wild Arms 3 - Long Days of Rest" },
+    { src: "audio/ctcorridor.mp3", title: "Chrono Trigger - Corridors of Time" },
+    { src: "audio/sa2aquatic.mp3", title: "Sonic Adventure 2 - Dive Into The Mellow (Aquatic Mine)" },
+    { src: "audio/xgemotion.mp3", title: "Xenogears - Emotion" },
     { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "Sonic Adventure 2 - Ghost's Pumpkin Soup" }
   ],
 
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
-  musicVolume: 0.3,
+  musicVolume: 0.2,
   musicFadeInSeconds: 3,
   showNowPlaying: true,
 
