@@ -53,6 +53,7 @@ window.LS_CONFIG = {
   // Swap these for your own server's rules and tips.
   tips: [
     "!Beache to open your Beache Coine Wallete.",
+    "Many things can be configured from your F1 MENU!",
     "Alt (Walk) + E (Use) lets you sit!",
     "Live by the prop, die by the prop. — Unknown",
     "Do you have a single fact to back that up? — JC Denton",
