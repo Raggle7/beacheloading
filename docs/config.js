@@ -36,6 +36,11 @@ window.LS_CONFIG = {
     { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" },
     { src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
     { src: "audio/dothackmenu.mp3", title: ".Hack// - Desktop Theme" },
+    { src: "audio/daydawns.mp3", title: "Phantasy Star Online - Day Dawns" },
+    { src: "audio/mvc3.mp3", title: "Marvel vs Capcom 3 - Online Lobby" },
+    { src: "audio/restareamelee.mp3", title: "Super Smash Bros Melee - Rest Area" },
+    { src: "audio/fft.mp3", title: "Final Fantasy Tactics - Menu" },
+    { src: "audio/darktideauspex.mp3", title: "Warhammer 40K Darktide - Offworld Auspex" },
     { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "SA2 - Ghost's Pumpkin Soup" }
   ],
 
