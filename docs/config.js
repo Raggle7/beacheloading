@@ -55,12 +55,12 @@ window.LS_CONFIG = {
   // Swap these for your own server's rules and tips.
   tips: [
     "!Beache to open your Beache Coine Wallete.",
-    "Configured your game in the F1 MENU.",
+    "Configure your game in the F1 MENU.",
     "Alt (Walk) + E (Use) lets you sit.",
-    "Live by the prop, die by the prop. — Unknown",
-    "Do you have a single fact to back that up? — JC Denton",
-    "Nice werkehs dudehs — Speedy",
-    "A bomb's a bad choice for close-range combat. — JC Denton",
+    "Live by the prop, die by the prop.",
+    "Do you have a single fact to back that up?",
+    "Nice werkehs dudehs.",
+    "A bomb's a bad choice for close-range combat.",
     "Nice werkehs dudehs, you'll have to let me have a play sometime. Looks like super duper fun time eclipse sunset surpise! <]=)",
     "Your life literally is as valuable as a summer ant. I'm just gonna stomp you, you're gonna keep coming back, seal up all my cracks, you're gonna keep coming back, why? Cause you keep smelling the syrup",
     "For me, it is the McChicken! The very embodiment of a fast food sandwich.",
@@ -70,6 +70,8 @@ window.LS_CONFIG = {
     "I hate this game. With all my heart I hate it. And I don't hate because of what it is able to do. I hate it, because it seems the 99% of people in it are worthless scum, who only able to enjoy their day if they ruin it for the other.",
     "A beach's sand is the slightly unstable ground before the ocean of endless possibility.",
     "Breasts kind of lose their appeal once you realize they look like a massive nutsack and the neck is kind of like the shaft",
+    "I will make you pee within the next 24 hours. I won't say when though, it would ruin the surprise. If you're reading this, you will pee. Think of me when you do.",
+    "For me, it's bang's. no other soda comes close to the rich flavor and smoothness of bang's root beer.",
     "Bullshit. — Jack Garland"
   ],
   tipSeconds: 5,
