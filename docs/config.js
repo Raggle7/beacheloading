@@ -35,6 +35,7 @@ window.LS_CONFIG = {
   music: [
     { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" },
     { src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
+    { src: "audio/homer.mp3", title: "Homer Let The Barts Out (Halloween Edition)" },
     { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "SA2 - Ghost's Pumpkin Soup" }
   ],
 
