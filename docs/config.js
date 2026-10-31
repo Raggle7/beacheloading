@@ -33,7 +33,10 @@ window.LS_CONFIG = {
   // Each entry is a path, or { src: "...", title: "..." } to set the "now playing" text
   // (otherwise the file name is shown). 128-160 kbps MP3/OGG keeps files small.
   music: [
-    { src: "audio/darkchao.mp3", title: "SA2 - Dark Chao Theme" },
+    { src: "audio/ggaworldly.mp3", title: "Goemon's Great Adventure - Worldly Town Night" },
+    { src: "audio/mmlapple.mp3", title: "Megaman legends - Apple Market" },
+    { src: "audio/ff14distance.mp3", title: "Final Fantasy XIV - Close In The Distance" },
+    { src: "audio/darkchao.mp3", title: "Sonic Adventure 2 - Dark Chao Theme" },
     { src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
     { src: "audio/dothackmenu.mp3", title: ".Hack// - Desktop Theme" },
     { src: "audio/daydawns.mp3", title: "Phantasy Star Online - Day Dawns" },
@@ -41,7 +44,7 @@ window.LS_CONFIG = {
     { src: "audio/restareamelee.mp3", title: "Super Smash Bros Melee - Rest Area" },
     { src: "audio/fft.mp3", title: "Final Fantasy Tactics - Menu" },
     { src: "audio/darktideauspex.mp3", title: "Warhammer 40K Darktide - Offworld Auspex" },
-    { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "SA2 - Ghost's Pumpkin Soup" }
+    { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "Sonic Adventure 2 - Ghost's Pumpkin Soup" }
   ],
 
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
