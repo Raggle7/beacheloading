@@ -36,8 +36,8 @@ window.LS_CONFIG = {
     { src: "audio/ggaworldly.mp3", title: "Goemon's Great Adventure - Worldly Town Night" },
     { src: "audio/mmlapple.mp3", title: "Megaman legends - Apple Market" },
     { src: "audio/ff14distance.mp3", title: "Final Fantasy XIV - Close In The Distance" },
-    { src: "audio/darkchao.mp3", title: "Sonic Adventure 2 - Dark Chao Theme" },
-    { src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
+    //{ src: "audio/darkchao.mp3", title: "Sonic Adventure 2 - Dark Chao Theme" },
+    //{ src: "audio/nujabes.mp3", title: "Nujabes - Luv(sic.) pt3 (feat. Shing02)" },
     { src: "audio/dothackmenu.mp3", title: ".Hack// - Desktop Theme" },
     { src: "audio/daydawns.mp3", title: "Phantasy Star Online - Day Dawns" },
     { src: "audio/mvc3.mp3", title: "Marvel vs Capcom 3 - Online Lobby" },
@@ -48,7 +48,7 @@ window.LS_CONFIG = {
     { src: "audio/ctcorridor.mp3", title: "Chrono Trigger - Corridors of Time" },
     { src: "audio/sa2aquatic.mp3", title: "Sonic Adventure 2 - Dive Into The Mellow (Aquatic Mine)" },
     { src: "audio/xgemotion.mp3", title: "Xenogears - Emotion" },
-    { src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "Sonic Adventure 2 - Ghost's Pumpkin Soup" }
+    //{ src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "Sonic Adventure 2 - Ghost's Pumpkin Soup" }
   ],
 
   // 0-1. Multiplied by the player's own in-game music volume (snd_musicvolume).
