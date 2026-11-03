@@ -15,7 +15,7 @@ window.LS_CONFIG = {
   // Background pool. One image is picked at random on every connect and map change,
   // never the same one twice in a row. Aim for 1920x1080 JPG/WebP around 200-400 KB.
   backgrounds: [
-    "img/bg/BeacheHalloween2026.png"
+    "img/bg/beacheslam.png"
   ],
 
   // Optional images for specific maps; these replace the pool on that map.
