@@ -398,6 +398,8 @@
   // ---------------------------------------------------------------- start
 
   if (cfg.accentColor) document.documentElement.style.setProperty("--accent", cfg.accentColor);
+  // Off unless config.js asks for it, since GMod's own box shows the same information.
+  if (!cfg.showDownloadProgress) document.body.classList.add("no-downloads");
 
   setText("server-name", cfg.title || "");
   if (state.map) setText("map-name", prettyMapName(state.map));

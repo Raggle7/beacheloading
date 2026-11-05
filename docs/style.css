@@ -215,10 +215,21 @@ body {
   text-overflow: ellipsis;
 }
 
+/* With download progress turned off (showDownloadProgress in config.js), the title block
+   moves up to line up with the loader on the right. */
+.no-downloads .downloads {
+  display: none;
+}
+
+.no-downloads .info {
+  bottom: 6.4rem;
+}
+
 /* ---------------------------------------------------------------- bottom-right: now loading */
 
-/* Sits level with the progress bar, leaving the corner below free for the game's own
-   progress box, which GMod draws on top of the page. */
+/* Sits level with the progress bar (or the map name when download progress is off),
+   leaving the corner below free for the game's own progress box, which GMod draws on
+   top of the page. */
 .loader {
   position: absolute;
   right: 3.5rem;
