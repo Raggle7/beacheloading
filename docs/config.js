@@ -55,8 +55,8 @@ window.LS_CONFIG = {
   musicFadeInSeconds: 3,
   showNowPlaying: true,
 
-  // The "now loading" overlay in the bottom-right. Leave overlayImage empty for the
-  overlayImage: "ring.gif",
+  // The "now loading" overlay in the bottom-right. Leave overlayImage empty for the gif
+  overlayImage: "",
   overlayText: "You're On Your Way...",
 
   // Rotating tips in the top-left. An empty list hides the box.
