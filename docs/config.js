@@ -36,7 +36,7 @@ window.LS_CONFIG = {
     { src: "audio/dothackmenu.mp3", title: ".Hack// - Desktop Theme" },
     { src: "audio/daydawns.mp3", title: "Phantasy Star Online - Day Dawns" },
     { src: "audio/mvc3.mp3", title: "Marvel vs Capcom 3 - Online Lobby" },
-    { src: "audio/restareamelee.mp3", title: "Super Smash Bros Melee - Rest Area" },
+    //{ src: "audio/restareamelee.mp3", title: "Super Smash Bros Melee - Rest Area" },
     { src: "audio/fft.mp3", title: "Final Fantasy Tactics - Menu" },
     { src: "audio/darktideauspex.mp3", title: "Warhammer 40K Darktide - Offworld Auspex" },
     { src: "audio/wildarms3rest.mp3", title: "Wild Arms 3 - Long Days of Rest" },
@@ -46,6 +46,7 @@ window.LS_CONFIG = {
     { src: "audio/gwfactions.mp3", title: "Guild Wars - Factions Theme" },
     { src: "audio/mshenesys.mp3", title: "MapleStory - Henesys" },
     { src: "audio/osrsnewbie.mp3", title: "Runescape - Newbie Melody" },
+    { src: "audio/ffxbesaid.mp3", title: "Final Fantasy X - Besaid Island" },
     { src: "audio/ebname.mp3", title: "Earthbound - Your Name Please (Noiseless)" },
     //{ src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "Sonic Adventure 2 - Ghost's Pumpkin Soup" }
   ],
