@@ -10,11 +10,11 @@ window.LS_CONFIG = {
 
   // Background pool. One image is picked at random on every connect and map change,
   backgrounds: [
-    "img/bg/beacheslam.png"
-    "img/bg/BeacheHalloween2026.png"
-    "img/bg/TTT_InitialD.jpg"
-    "img/bg/cyberbeache.png"
-    "img/bg/seaofttt_hq.jpg"
+    "img/bg/beacheslam.png",
+    "img/bg/BeacheHalloween2026.png",
+    "img/bg/TTT_InitialD.jpg",
+    "img/bg/cyberbeache.png",
+    "img/bg/seaofttt_hq.jpg",
     "img/bg/ippo_beache.png"
   ],
 
