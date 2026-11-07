@@ -53,6 +53,7 @@ window.LS_CONFIG = {
     { src: "audio/osrsnewbie.mp3", title: "Runescape - Newbie Melody" },
     { src: "audio/ffxbesaid.mp3", title: "Final Fantasy X - Besaid Island" },
     { src: "audio/ebname.mp3", title: "Earthbound - Your Name Please (Noiseless)" },
+    { src: "audio/y0substory.mp3", title: "Yakuza 0 - Sub Story Theme" }
     //{ src: "audio/SA2 - Ghost's Pumpkin Soup.mp3", title: "Sonic Adventure 2 - Ghost's Pumpkin Soup" }
   ],
 
