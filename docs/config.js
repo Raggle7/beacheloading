@@ -15,7 +15,7 @@ window.LS_CONFIG = {
     "img/bg/TTT_InitialD.jpg",
     "img/bg/cyberbeache.png",
     "img/bg/seaofttt_hq.jpg",
-    "img/bg/ippo_beache.png"
+    "img/bg/ippo_beache.png",
   ],
 
   // Optional images for specific maps; these replace the pool on that map.
